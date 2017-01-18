@@ -25,14 +25,14 @@ copyright = "Code released under the Apache 2.0 license."
 
 [author]
   name = "Benoît Benedetti"
-    
+
 [params]
   DateForm = "Mon, Jan 2, 2006"
   Description = "Your site description"
   Author = "Benoît Benedetti"
-  email = "benoit.benedetti@gmail.com"
+  email = "benoit.benedetti@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
   Ganalytics = "XX-00000000-0"
-              
+
 [[params.social]]
   title = "twitter"
   url = "https://twitter.com/humboldtux"
@@ -42,7 +42,7 @@ copyright = "Code released under the Apache 2.0 license."
 [[params.social]]
   title = "facebook"
   url = "https://www.facebook.com/FACEBOOKHANDLE"
-                                      
+
 [[menu.main]]
   name = "home"
   url = "/"
@@ -52,7 +52,9 @@ copyright = "Code released under the Apache 2.0 license."
   url = "/post/"
   weight = -180
 ```
-                                                  
+
+The footer contains link icons to any enabled social media sites, such as facebook or linkedin. There is also an email icon, by removing the 'email' parameter or commenting out the icon will be removed.
+
 You can find a [Demo site](http://humboldtux.github.io/sbcb-demo/), and have a look at the source on the
 [repo site](https://github.com/humboldtux/sbcb-demo) for configuration parameters.
 

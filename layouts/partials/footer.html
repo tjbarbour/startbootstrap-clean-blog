@@ -41,7 +41,7 @@
     <!-- Custom Theme JavaScript -->
     <script src="{{ .Site.BaseURL }}/js/clean-blog.js"></script>
 
-    {{ if isset .Site.Params "Ganalytics" }}{{ partial "ga.html" . }}{{ end }}
+    {{ template "_internal/google_analytics.html" . }}
 
 </body>
 

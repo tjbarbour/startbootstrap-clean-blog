@@ -22,6 +22,7 @@ paginate = 10
 theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
 copyright = "Code released under the Apache 2.0 license."
+googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
 
 [author]
   name = "Benoît Benedetti"
@@ -31,7 +32,6 @@ copyright = "Code released under the Apache 2.0 license."
   Description = "Your site description"
   Author = "Benoît Benedetti"
   email = "benoit.benedetti@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
-  Ganalytics = "XX-00000000-0"
 
 [[params.social]]
   title = "twitter"

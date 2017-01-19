@@ -8,7 +8,7 @@
            <div class="site-heading">
              <h1>{{ .Site.Title }}</h1>
              <hr class="small">
-             {{ if isset .Site.Params "Description" }}<span class="subheading">{{ .Site.Params.Description }}</span>{{ end }}
+             {{ with .Site.Params.Description }}<span class="subheading">{{ . }}</span>{{ end }}
            </div>
          </div>
        </div>

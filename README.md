@@ -23,6 +23,7 @@ theme = "startbootstrap-clean-blog"
 languageCode = "en-us"
 copyright = "Code released under the Apache 2.0 license."
 googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS generation
+disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus comments
 
 [author]
   name = "Benoît Benedetti"
@@ -87,7 +88,7 @@ You can have a look at my [personal website](http://www.humboldtux.net), where i
   * http://discuss.gohugo.io/t/my-deployment-process/807
   * http://discuss.gohugo.io/t/automated-hugo-deployments-anywhere-using-wercker/539
 * updatedate post metadata for updated post
-* comment system support: disqus, Discourse, Kaiju
+* comment system support: ~~disqus~~, Discourse, Kaiju
 * Syntax highlighting
 * Less support
 * post series : http://discuss.gohugo.io/t/creating-post-series/1115

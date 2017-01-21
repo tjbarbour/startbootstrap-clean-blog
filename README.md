@@ -32,6 +32,7 @@ googleAnalytics = "UA-123-45" # delete or comment to disable Google Analytics JS
   Description = "Your site description"
   Author = "Benoît Benedetti"
   email = "benoit.benedetti@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
+  postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
 
 [[params.social]]
   title = "twitter"

@@ -34,6 +34,7 @@ disqusShortname = "YourDisqusShortname" #delete or comment to disable Disqus com
   Author = "Benoît Benedetti"
   email = "benoit.benedetti@gmail.com" #Remove this line if you would prefer not to use an email button in the footer.
   postSummariesFrontPage = 4 #Number of post summaries to show on front page, comment out to allow default(4)
+  showReadTime = true #set to false to exclude read time from header of post
 
 [[params.social]]
   title = "twitter"

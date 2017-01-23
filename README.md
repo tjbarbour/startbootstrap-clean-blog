@@ -61,9 +61,14 @@ The footer contains link icons to any enabled social media sites, such as facebo
 You can find a [Demo site](http://humboldtux.github.io/sbcb-demo/), and have a look at the source on the
 [repo site](https://github.com/humboldtux/sbcb-demo) for configuration parameters.
 
-### Custom
+### Customization
 
 You can have a look at my [personal website](http://www.humboldtux.net), where i customize it and use it in a different way than the original theme.
+
+## Contributing
+
+Contributions are more than welcome. If you want to contribute and need inspiration, have a look at the following *TODO* section.
+If you have a particular new feature or improvement in mind, before submitting a PR, please open an issue first.
 
 ## TODO
 
@@ -73,6 +78,7 @@ You can have a look at my [personal website](http://www.humboldtux.net), where i
   * http://discuss.gohugo.io/t/multiple-language-websites/537
   * http://discuss.gohugo.io/t/hugo-multisite-workflow/103
 * "Edit on github" feature http://discuss.gohugo.io/t/how-to-implement-edit-this-page-on-github/1166
+* Make author name clickable, to link to page of all posts by author
 * Display archive posts per year/month
 * dynamic configuration of email for JS contact form
 * Advanced pagination, make pagination button look like older posts button

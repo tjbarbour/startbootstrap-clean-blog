@@ -1,3 +1,8 @@
+# Warning
+
+**I'm not using this theme anymore.**
+**New maintainer wanted**
+
 ## About
 
 Hugo theme based on [Start Bootstrap Clean Blog](http://startbootstrap.com/template-overviews/clean-blog/).

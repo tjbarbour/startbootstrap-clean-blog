@@ -6,6 +6,10 @@ Theme originally forked from [humboldtux/startbootstrap-clean-blog: Hugo theme b
 
 Thanks everyone for your works.
 
+![Sample Page](./docs/hugo-clean-blog-sample.png)
+
+[Go-zen-chu/hugo-clean-blog-theme-sample](https://github.com/Go-zen-chu/hugo-clean-blog-theme-sample)
+
 ## Install
 
 In your, hugo project,
@@ -13,7 +17,10 @@ In your, hugo project,
 git submodule add https://github.com/Go-zen-chu/hugo-clean-blog-theme.git themes/clean-blog
 ```
 
-From config.toml of your site, specify theme = "clean-blog"
+From config.toml of your site, specify 
+```
+theme = "clean-blog"
+```
 
 ## Usage
 

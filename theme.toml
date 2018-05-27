@@ -5,7 +5,7 @@ description = "Hugo Clean Blog Theme"
 homepage = "https://github.com/go-zen-chu/hugo-clean-blog-theme"
 tags = ["blog", "bootstrap"]
 features = ["blog", "bootstrap"]
-min_version = 0.18
+min_version = 0.17
 
 [author]
   name = "Akira Masuda"
